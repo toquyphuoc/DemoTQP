@@ -1,0 +1,13 @@
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\bin\Debug\LTGD_Chuong2.exe.config
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\bin\Debug\LTGD_Chuong2.exe
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\bin\Debug\LTGD_Chuong2.pdb
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\obj\Debug\LTGD_Chuong2.csproj.AssemblyReference.cache
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\obj\Debug\LTGD_Chuong2.Form1.resources
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\obj\Debug\LTGD_Chuong2.Properties.Resources.resources
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\obj\Debug\LTGD_Chuong2.csproj.GenerateResource.cache
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\obj\Debug\LTGD_Chuong2.csproj.CoreCompileInputs.cache
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\obj\Debug\LTGD_Chuong2.exe
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\obj\Debug\LTGD_Chuong2.pdb
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\obj\Debug\LTGD_Chuong2.Form2.resources
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\obj\Debug\LTGD_Chuong2.Form3.resources
+C:\Users\vinht\source\repos\LTGD_Chuong2\LTGD_Chuong2\obj\Debug\LTGD_Chuong2.Form4.resources
